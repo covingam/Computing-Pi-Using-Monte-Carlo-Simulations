@@ -1,4 +1,4 @@
-%Ashley Covington (acovingt)
+%Ashley Covington (acovingt) 
 %Problem 2 - Project 1
 
 prob2parta = (4*montecarlo(100))/100;
